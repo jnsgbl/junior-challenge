@@ -44,6 +44,8 @@ Select two out of the following three questions and write a short response (a fe
 - [ ] What are the advantages of using a dependency management package like Pipenv or Poetry?
 - [ ] What does the following code snippet do? What might be wrong with it? What could be done better?
 
+<img width="862" alt="Junior_Challenge_Snippet" src="https://user-images.githubusercontent.com/40355159/158446482-814f7d80-8e67-4e08-8606-2e8b1884e797.png">
+
 ## Part 3 - Reflection
 
 Reflect on your work on this challenge and add your responses below, or save them in a new file.
